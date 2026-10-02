@@ -6,7 +6,7 @@ Name : Chinenye Emokai
 Student ID : 1361648
 
 ## Penalty-Free Grace Period
-Did you use any of your penalty-free grace period allowances (24 hours each) for this assignment? (Yes / No)
+Did you use any of your penalty-free grace period allowances (24 hours each) for this assignment? (Yes / No) No
 
 If yes, how many (1 or 2)?
 
